@@ -1,0 +1,7 @@
+#head {
+  color: pink;
+}
+#hidden,
+#not_hidden {
+  font-size: 30px;
+}
